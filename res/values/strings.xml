@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Basic App 3</string>
+    <string name="bt1">Ringer</string>
+    <string name="bt2">Music</string>
+    <string name="bt3">Alarm</string>
+    <string name="t1">Change the ringing volume using volume button</string>
+    <string name="t2">Change the music volume using volume button</string>
+    <string name="t3">Change the alarm volume using volume button</string>
+
+</resources>
